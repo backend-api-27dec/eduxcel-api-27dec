@@ -287,6 +287,7 @@ const allowedOrigins = [
   'https://eduxcel.vercel.app',
   'http://localhost:5173',
     'https://lic-neemuch-jitendra-patidar.vercel.app',
+    'https://jitendra-patidar.vercel.app',
 
     'https://sanjay-patidar.vercel.app',
 
